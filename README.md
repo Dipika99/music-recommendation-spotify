@@ -1,4 +1,5 @@
 # Music Recommendation System
+By analyzing audio features from the Spotify Million Song Dataset, the system computes the similarity between songs using cosine similarity, allowing users to discover new music that aligns with their tastes. 
 
 ## Overview
 
