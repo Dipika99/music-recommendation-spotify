@@ -17,7 +17,7 @@ The **Music Recommendation System** utilizes the [Spotify Million Song Dataset](
 3. View the top five similar songs.
 
 Example:
-<img width="971" alt="Screenshot 2024-10-20 at 18 28 19" src="https://github.com/user-attachments/assets/3052c4a6-ca17-4374-99ae-974e4f7c5473">
+<img width="868" alt="Screenshot 2024-11-10 at 20 03 56" src="https://github.com/user-attachments/assets/00fd14d4-9d9d-42df-addc-76d0d835ab01">
 
 ## Credits
 
