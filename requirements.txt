@@ -1,0 +1,5 @@
+streamlit
+spotipy
+python-dotenv
+pandas
+scikit-learn
