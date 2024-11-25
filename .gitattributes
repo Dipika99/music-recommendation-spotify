@@ -1,1 +1,1 @@
-*.pkl filter=lfs diff=lfs merge=lfs -text
+pkl/*.pkl filter=lfs diff=lfs merge=lfs -text
